@@ -1,12 +1,16 @@
-# JiaYiRe-E-sports
-JiaYiRe-E-sports is committed to promoting the cool personality of the e-sports home accessories, so that people in daily life to buy the best efficient quality home accessories. We launch home decoration personality good-looking, excellent quality, esports lovers of the second choice.
+# TiYuJiSuCheng
+TiYuJiSuCheng is a shopping mall to buy ball sports goods. We are committed to promoting professional and high-quality ball sports equipment, so that people can efficiently buy the most professional ball sports equipment in their daily life.
 
-- our app displays a complete range of e-sports home accessories, including e-sports style murals, posters, e-sports mouse pads, game decorations and other e-sports home accessories. These categories complete e-sports home accessories can meet the user's selection and procurement.
+- We offer a variety of professional ball sports equipment for users to choose and buy, including: football equipment, basketball equipment, rugby equipment, volleyball equipment, sports protection kit and so on. These ball games are of good quality and very professional, which is worth having for ball game lovers.
 
-- our app makes a very detailed classification of these e-sports home accessories, which helps users quickly find the e-sports home accessories they want to buy.
+- Our APP has made a very detailed classification of these ball sports equipment, which helps users to quickly find the ball sports equipment they want to buy.
 
-- our app introduces each product in detail, so that you can have a full understanding of these products and find your favorite e-sports home accessories, which is convenient for you to purchase and order.
+- Our APP gives a detailed and careful introduction to each product, so that you can fully understand these products, find the ball games you like, and make it convenient for you to purchase and place orders.
 
-- our app also has the function of goods collection. Your favorite e-sports home accessories can be collected to the collection list, which is convenient for you to browse and place an order.
+- Our app also has the function of commodity collection. Your favorite ball sports goods can be collected into the collection list for your next browsing and placing orders.
 
-If you have any questions, please contact us as follows :zyl19900324@icloud.com
+- our app also has the function of product sharing, which allows you to share the products you think excellent quality and reasonable price is worth buying with others.
+
+TiYuJiSuCheng - let you enjoy the sport, catch the ball attentively!
+
+If you have any questions, please contact us as follows :axk74cr27@21cn.com
