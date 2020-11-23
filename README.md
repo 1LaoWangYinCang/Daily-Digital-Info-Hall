@@ -1,4 +1,4 @@
-# JiuDingTiYuZhuanJia
+# XiGuaTiYuDaShi
 
 JiuDingTiYuZhuanJia is an APP to learn hockey strategies, record sports training and buy hockey equipment. It is dedicated to promoting hockey so that people can buy professional hockey equipment in their daily life, learn detailed hockey strategies and easily record daily sports training.
 
