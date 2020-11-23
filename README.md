@@ -1,6 +1,6 @@
 # XiGuaTiYuDaShi
 
-JiuDingTiYuZhuanJia is an APP to learn hockey strategies, record sports training and buy hockey equipment. It is dedicated to promoting hockey so that people can buy professional hockey equipment in their daily life, learn detailed hockey strategies and easily record daily sports training.
+XiGuaTiYuDaShi is an APP to learn hockey strategies, record sports training and buy hockey equipment. It is dedicated to promoting hockey so that people can buy professional hockey equipment in their daily life, learn detailed hockey strategies and easily record daily sports training.
 
 [Strategy] There is a hockey strategy page in our app. We provide various skills and strategy analysis of hockey, so that you can know more about hockey and like hockey at the same time.
 
