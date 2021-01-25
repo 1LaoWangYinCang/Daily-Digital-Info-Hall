@@ -1,15 +1,15 @@
-# XiGuaTiYuDaShi
+# Digital Latest Info Wall
 
-XiGuaTiYuDaShi is an APP to learn hockey strategies, record sports training and buy hockey equipment. It is dedicated to promoting hockey so that people can buy professional hockey equipment in their daily life, learn detailed hockey strategies and easily record daily sports training.
+Digital Latest Info Wall can help people learn, share and exchange the latest digital currency information conveniently and quickly. There are the latest digital currency news information in it. Users can quickly obtain these news information.
 
-[Strategy] There is a hockey strategy page in our app. We provide various skills and strategy analysis of hockey, so that you can know more about hockey and like hockey at the same time.
+-Users can put forward their own opinions on hot news and information, share news and information, collect valuable news and praise articles that you think are good.
 
-[Equipment] Our app shows a full range of hockey equipment, including hockey training equipment, hockey shoes, hockey protective gear, professional hockey suits and other hockey equipment. These categories of complete hockey equipment can meet the user's selection and purchase.
+-Our app provides users with market information of various digital currencies, so that they can better understand the market changes.
 
-[Collection] Our app also has the function of commodity collection. Your favorite hockey equipment can be collected into the collection list, which is convenient for you to browse and place orders.
+-Our app allows users to express their opinions on digital currency in the community and exchange their ideas with others.
 
-[Record] Our app also has a sports training record function. You can record your daily hockey training, record your progress and feelings every day, and also share your training intensity to encourage your daily persistence.
+-Users can also Book Lectures on digital currency, learn common knowledge of digital currency and consult relevant questions, so that you can better understand digital currency.
 
-Buy equipment, learn strategies, memorize training, and become a sports expert.
+Get the latest digital currency information at any time.
 
-If you have any questions, please contact us as follows :wsk19870116@icloud.com
+If you have any questions, please contact us as follows :dethusonlbjp@hotmail.com
