@@ -1,6 +1,6 @@
-# Dynamic Digital Hotspot Zone
+# Latest Digital Information
 
-Dynamic Digital Hotspot Zone can help people learn, share and exchange the latest digital currency information conveniently and quickly. There are the latest digital currency news information in it. Users can quickly obtain these news information.
+Latest Digital Information can help people learn, share and exchange the latest digital currency information conveniently and quickly. There are the latest digital currency news information in it. Users can quickly obtain these news information.
 
 -Users can put forward their own opinions on hot news and information, share news and information, collect valuable news and praise articles that you think are good.
 
@@ -12,4 +12,4 @@ Dynamic Digital Hotspot Zone can help people learn, share and exchange the lates
 
 Get the latest digital currency information at any time.
 
-If you have any questions, please contact us as follows :yva5txg@126.com
+If you have any questions, please contact us as follows :taoyi451954@163.com
